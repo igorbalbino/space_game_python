@@ -1,4 +1,4 @@
-# SPACE GAME JAVA
+# SPACE GAME PYTHON
 
 ### Detalhes
 
